@@ -21,7 +21,7 @@
 
 | Action                  | Link                                                                                                                                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Get Session**      | [![Get Session](https://img.shields.io/badge/-SILVA%20SESSION-1e293b?style=for-the-badge\&logo=whatsapp\&logoColor=green)](https://silva-session-selector.vercel.app/) |
+| 🌐 **Get Session**      | [![Get Session](https://img.shields.io/badge/-ZENO%20SESSION-1e293b?style=for-the-badge\&logo=whatsapp\&logoColor=green)](https://silva-session-selector.vercel.app/) |
 | 🚀 **Deploy Now**       | [![Deploy Heroku](https://img.shields.io/badge/-DEPLOY%20NOW-6f42c1?style=for-the-badge\&logo=heroku\&logoColor=white)](https://silva-md-fork-checker.vercel.app/)     |
 | 🔌 **External Plugins** | [![Plugins](https://img.shields.io/badge/-EXTERNAL%20PLUGINS-4b5563?style=for-the-badge\&logo=code\&logoColor=white)](https://github.com/SilvaTechB/EXTERNAL-PLUGINS)  |
 
