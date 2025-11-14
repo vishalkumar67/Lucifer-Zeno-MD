@@ -7,8 +7,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+LUCIFE+ZENO+MD+BOT
-+V5.0+%F0%9F%94%A5;NOW+FULLY+OPERATIONAL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+ZENO+MD+BOT+V5.0+%F0%9F%94%A5;NOW+FULLY+OPERATIONAL" alt="Typing SVG">
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -86,9 +85,9 @@
 
 ## 💻 **Developer Zone**
 
-> A powerful WhatsApp userbot built using the [Baileys](https://github.com/SilvaTechB/Baileys) library.
+> A powerful WhatsApp userbot built using the [Baileys](https://github.com/vishalkumar67/Baileys) library.
 > Automate chats, run media tools, and integrate AI with ease.
-> Built with ❤️ by [Silva Tech Inc](https://github.com/vishalkumar67).
+> Built with ❤️ by [ LUCIFER ZENO ](https://github.com/vishalkumar67).
 
 <p align="center">
   <a href="https://github.com/vishalkumar67/Lucifer-Zeno-MD">
@@ -112,7 +111,7 @@
 
 ## 👥 **Contributors**
 
-| ![Silva](https://github.com/vishalkumar67.png?size=80) | ![Shizo](https://github.com/shizothetechie.png?size=80) | ![Lazack](https://github.com/Lazack28.png?size=80) |
+| ![Silva](https://github.com/vishalkumar67.png?size=80) |
 | --------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | [Silva](https://github.com/vishalkumar67)              | [Shizo](https://github.com/shizothetechie)              | [Lazack28](https://github.com/Lazack28)            |
 
