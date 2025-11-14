@@ -111,11 +111,10 @@
 
 ## 👥 **Contributors**
 
-| ![Silva](https://github.com/vishalkumar67.png?size=80) |
-| --------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
-| [Silva](https://github.com/vishalkumar67)              | [Shizo](https://github.com/shizothetechie)              | [Lazack28](https://github.com/Lazack28)            |
+| ![ZENO](https://github.com/vishalkumar67.png?size=80) |
 
----
+| [ZENO](https://github.com/vishalkumar67) |                   
+
 
 ## ⭐ **Community Love**
 
