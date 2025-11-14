@@ -1,4 +1,4 @@
-# Lucifer-Zeno-MD
+# LUCIFER-ZENO-MD
 𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 LUCIFER 𝙓 ZENO
 # ⚡ **ZENO MD BOT — VERSION 5.0 IS HERE!** ⚡
 
@@ -7,7 +7,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+SILVA+MD+BOT+V5.0+%F0%9F%94%A5;NOW+FULLY+OPERATIONAL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+LUCIFE+ZENO+MD+BOT
++V5.0+%F0%9F%94%A5;NOW+FULLY+OPERATIONAL" alt="Typing SVG">
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -87,7 +88,7 @@
 
 > A powerful WhatsApp userbot built using the [Baileys](https://github.com/SilvaTechB/Baileys) library.
 > Automate chats, run media tools, and integrate AI with ease.
-> Built with ❤️ by [Silva Tech Inc](https://github.com/Lucifer Zeno).
+> Built with ❤️ by [Silva Tech Inc](https://github.com/vishalkumar67).
 
 <p align="center">
   <a href="https://github.com/vishalkumar67/Lucifer-Zeno-MD">
